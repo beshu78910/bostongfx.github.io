@@ -1,0 +1,39 @@
+HTTrack3.49-2 launched on Thu, 26 Dec 2019 16:09:57 at https://www.cs.umb.edu:443/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://www.cs.umb.edu:443/ -O "/home/d/websites/UMBCS" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:13:14	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.cs.umb.edu:443/people/staff/administrative/ (from https://www.cs.umb.edu:443/)
+16:13:15	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.cs.umb.edu:443/people/staff/technical_support/ (from https://www.cs.umb.edu:443/)
+16:13:34	Error: 	"Not Found" (404) at link https://www.cs.umb.edu:443/sp/about/visitor_information/ (from https://www.cs.umb.edu:443/sp/resources/other/faqs/)
+16:13:35	Error: 	"Not Found" (404) at link https://www.cs.umb.edu:443/academics/courses/CS115L/ (from https://www.cs.umb.edu:443/sp/academics/graduate_programs/)
+16:13:35	Error: 	"Not Found" (404) at link https://www.cs.umb.edu:443/academics/courses/CS485/ (from https://www.cs.umb.edu:443/sp/academics/graduate_programs/)
+16:13:40	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.cs.umb.edu:443/people/staff/administrative/ (from https://www.cs.umb.edu:443/)
+16:13:40	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.cs.umb.edu:443/people/staff/technical_support/ (from https://www.cs.umb.edu:443/)
+16:13:41	Error: 	"Unauthorized" (401) at link https://www.cs.umb.edu:443/staffdocs/facdocsindex.html (from https://www.cs.umb.edu:443/sp/resources/)
+16:13:41	Warning: 	Found for https://www.cs.umb.edu:443/women_in_science/
+16:13:41	Warning: 	File has moved from https://www.cs.umb.edu:443/women_in_science/ to http://kdl.cs.umb.edu/w/wins//
+16:13:41	Error: 	"Not Found" (404) at link https://www.cs.umb.edu:443/www/ (from https://www.cs.umb.edu:443/sp/about/facilities/policies/)
+16:13:41	Error: 	"Not Found" (404) at link https://www.cs.umb.edu:443/www/sp/about/ (from https://www.cs.umb.edu:443/sp/about/facilities/policies/)
+16:13:41	Error: 	"Not Found" (404) at link https://www.cs.umb.edu:443/www/sp/about/facilities/ (from https://www.cs.umb.edu:443/sp/about/facilities/policies/)
+16:13:41	Error: 	"Not Found" (404) at link https://www.cs.umb.edu:443/www/sp/resources/other/faqs/ (from https://www.cs.umb.edu:443/sp/about/facilities/policies/)
+16:13:41	Error: 	"Not Found" (404) at link https://www.cs.umb.edu:443/academics/courses/CS320L/ (from https://www.cs.umb.edu:443/academics/courses/CS615/)
+16:13:41	Error: 	"Not Found" (404) at link https://www.cs.umb.edu:443/academics/courses/CS114L/ (from https://www.cs.umb.edu:443/academics/courses/IT114L/)
+16:13:41	Error: 	"Not Found" (404) at link https://www.cs.umb.edu:443/academics/courses/IT425/ (from https://www.cs.umb.edu:443/academics/courses/IT485/)
+16:13:41	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.cs.umb.edu:443/people/staff/administrative/ (from https://www.cs.umb.edu:443/)
+16:13:41	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.cs.umb.edu:443/people/staff/technical_support/ (from https://www.cs.umb.edu:443/)
+16:13:57	Warning: 	HTML file (25559 bytes) retransferred due to lack of cache: https://www.cs.umb.edu:443/news_and_events/events_calendar/287/
+16:13:58	Warning: 	HTML file (24179 bytes) retransferred due to lack of cache: https://www.cs.umb.edu:443/academics/courses/CS105/
+16:13:59	Warning: 	HTML file (23620 bytes) retransferred due to lack of cache: https://www.cs.umb.edu:443/academics/courses/CS630/
+16:14:00	Warning: 	HTML file (23642 bytes) retransferred due to lack of cache: https://www.cs.umb.edu:443/people/Colin_Godfrey/
+16:14:01	Warning: 	HTML file (23590 bytes) retransferred due to lack of cache: https://www.cs.umb.edu:443/people/Kenneth_Newman/
+16:14:02	Error: 	"Not Found" (404) at link https://www.cs.umb.edu:443/media/documents/Nonimmigrant_Visa_Options_after_Practical_Training.pdf (from https://www.cs.umb.edu:443/sp/resources/)
+16:14:02	Warning: 	HTML file (23257 bytes) retransferred due to lack of cache: https://www.cs.umb.edu:443/academics/courses/CS641/
+16:14:03	Error: 	"Not Found" (404) at link https://www.cs.umb.edu:443/img/glyphicons-halflings.png (from https://www.cs.umb.edu:443/static/bootstrap.min.css)
+16:14:03	Error: 	"Not Found" (404) at link https://www.cs.umb.edu:443/img/glyphicons-halflings-white.png (from https://www.cs.umb.edu:443/static/bootstrap.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 14 seconds : 360 links scanned, 345 files written (41003055 bytes overall) [35667914 bytes received at 140424 bytes/sec], 5897084 bytes transferred using HTTP compression in 245 files, ratio 17%, 9.5 requests per connection
+(16 errors, 12 warnings, 0 messages)
