@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}Department of Computer Science at UMass Boston</title>
+
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+
+          <div style='float:left'>
+            <a href='/'><img src="{{ site.baseurl }}/gfx/umb2.png" alt="logo" style="margin:20px;width:50px;vertical-align: baseline;"></a>
+            
+            <div id='title'>Department of Computer Science</div>
+          </div>
+
+        </header>
+
+          <nav>
+            <a href="{{ site.baseurl }}/people"{% if page.url == "/people" %}class="active"{% endif %}>PEOPLE</a>
+            <a href="{{ site.baseurl }}/research"{% if page.url == "/research" %}class="active"{% endif %}>RESEARCH</a>
+            <a href="{{ site.baseurl }}/courses"{% if page.url == "/courses" %}class="active"{% endif %}>COURSES</a>
+            <a href="{{ site.baseurl }}/contact"{% if page.url == "/contact" %}class="active"{% endif %}>CONTACT</a>
+          </nav>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container" style='margin-top:36px'>
+      {{ content }}
+    </div>
+
+    <footer>
+      
+      <div id="address" style="float:right;"><a href="https://maps.google.com/?cid=10043726632938961755" target="_blank">
+University of Massachusetts Boston<br>
+100 Morrissey Boulevard<br>
+Boston, MA 02125</a><br>
+617.287.6441<br>
+<span class="icon-email tooltip"><span class="tooltiptext">E-Mail</span></span> csinfo "at" cs.umb.edu<br>
+McCormack Hall, 3rd Floor, Room 211</div>
+    </footer>
+
+    {% include analytics.html %}
+
+  </body>
+</html>
