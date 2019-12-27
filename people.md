@@ -18,7 +18,7 @@ permalink: /people
 <a href="https://umb.edu/funda_durupinar">Funda Durupinar, Assistant Professor</a>
 </li>
 <li>
-<a href="https://umb.edu/academics/csm/faculty_staff/kenneth_fletcher">Kenneth Fletcher, Associate Professor</a>
+<a href="https://umb.edu/academics/csm/faculty_staff/kenneth_fletcher">Kenneth Fletcher, Assistant Professor</a>
 </li>
 <li>
 <a href="https://umb.edu/academics/csm/computer_science/faculty/gabriel_ghinita">Gabriel Ghinita, Associate Professor</a>
@@ -93,7 +93,7 @@ permalink: /people
 <a href="https://umb.edu/academics/csm/faculty_staff/temitayo_banjo">Temitayo Banjo, Lecturer</a>
 </li>
 <li>
-<a href="https://umb.edu/academics/csm/faculty_staff/ronald_cheung">Ronald Cheung, Senior Lecturer</a>
+<a href="https://umb.edu/academics/csm/faculty_staff/ronald_cheung">Ronald Cheung, Senior Lecturer II</a>
 </li>
 <li>
 <a href="https://umb.edu/academics/csm/computer_science/faculty/glenn_hoffman">Glenn Hoffman, Lecturer and Undergraduate Program Director for Information Technology</a>
