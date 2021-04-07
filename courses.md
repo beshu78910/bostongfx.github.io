@@ -11,7 +11,7 @@ permalink: /courses
 | CS105   | 1       | Introduction to Computer Concepts           | M01\-0617             | M W F            | 10:00AM\-10:50AM | Xiaoqian Zhang        |
 | CS105   | 2       | Introduction to Computer Concepts           | W02\-0125             | M W F            | 11:00AM\-11:50AM | Xiaoqian Zhang        |
 | CS109   | 1       | Computer Programming for Engineering        | | Tu Th                 | 11:00AM\-12:15PM | Ping Chen        |
-| CS110   | 1       | Introduction to Computing                   | W04\-0138             | Tu               | 11:00AM\-12:15PM | Unassigned            |
+| CS110   | 1       | Introduction to Web Design                  | W04\-0138             | Tu               | 11:00AM\-12:15PM | Unassigned            |
 | CS110   | 2       | Introduction to Computing                   | W04\-0138             | Th               | 11:00AM\-12:15PM | Unassigned            |
 | CS110   | 3       | Introduction to Computing                   | Y04\-4160             | Tu               | 02:00PM\-03:15PM | Unassigned            |
 | CS110   | 4       | Introduction to Computing                   | W01\-0043             | Th               | 02:00PM\-03:15PM | Unassigned            |
